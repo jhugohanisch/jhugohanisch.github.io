@@ -1,5 +1,5 @@
-# MIT_08_Eyes
+# Portfolio
 
-Event tracking using Javascript example: Move the cursor around the page and see how the eyes move!
+Hugo Hanisch' Portfolio
 
 This work is under the MIT licence.
